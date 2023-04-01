@@ -23,5 +23,5 @@ Para executar este código, abra o terminal e navegue até a pasta onde o códig
 
 ## Copy code
 
-``` python nome_do_arquivo.py ```
+``` python calculoBomba.py ```
 
