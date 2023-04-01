@@ -5,13 +5,14 @@ Esta é uma calculadora que determina a quantidade mínima de placas solares nec
 A calculadora utiliza alguns dados de entrada como temperatura mínima e máxima, potência da bomba, tensão da bomba e dados técnicos das placas e inversor para determinar a quantidade mínima de placas necessárias para alimentar a bomba d'água.
 
 ## Dados de entrada
-Temperatura mínima
-Temperatura máxima
-Potência da bomba
-Tensão da bomba
-Dados técnicos das placas
-Dados técnicos do inversor
-Como usar
+*Temperatura mínima
+*Temperatura máxima
+*Potência da bomba
+*Tensão da bomba
+*Dados técnicos das placas
+*Dados técnicos do inversor
+
+## Como usar
 Para usar a calculadora, basta preencher os dados de entrada no código. Em seguida, execute o código para obter o número mínimo de placas necessárias para alimentar a bomba d'água.
 
 ## Dependências
